@@ -20,6 +20,7 @@
 ## 已完成课程目录
 
 - 1.1 [JavaScript简介](https://www.bilibili.com/video/BV1Gp4y1r7K3) 制作人 [Easy](https://weibo.com/easy)
+- 1.2 [手册与规范](https://www.bilibili.com/video/BV1VA411x7N5/) 制作人 [Four](http://neychang.com) 
 - 1.3 [代码编辑器](https://www.bilibili.com/video/BV19Z4y137KW/) 制作人 [雨中歌者](https://weibo.com/esinger) 
 
 ## 版权说明
