@@ -24,6 +24,7 @@
 - 1.3 [代码编辑器](https://www.bilibili.com/video/BV19Z4y137KW/) 制作人 [雨中歌者](https://weibo.com/esinger)
 - 2.4 [JavaScript变量](https://www.bilibili.com/video/BV1Z541137Xb) 制作人 [peryiqiao](https://yiqiao.me)
 - 2.9 [值的比较](https://www.bilibili.com/video/BV1oK411G7jk/) 制作人 [LiLue](https://space.bilibili.com/99796959)
+- 2.15 [函数](https://www.bilibili.com/video/BV1kK411V7tj) 制作人 [旦肠](https://space.bilibili.com/5696987)
 - 2.16 [函数表达式](https://www.bilibili.com/video/BV1Qa4y1p71j) 制作人 [佩子](https://space.bilibili.com/61872678)
 - 2.18 [JavaScript特性](https://www.bilibili.com/video/BV1Gf4y1v7it/) 制作人 [范超萌](https://weibo.com/imfxx)
 
