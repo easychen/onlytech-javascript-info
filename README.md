@@ -25,6 +25,7 @@
 - 2.1 [Hello World](https://www.bilibili.com/video/BV1bZ4y1G7wK/) 制作人 [Coding魔法师](https://space.bilibili.com/363772205?share_medium=android&share_source=weixin&bbid=XY5B7FC57FF644BA1B033C110A17C26F862B1&ts=1606317593798)
 - 2.4 [JavaScript变量](https://www.bilibili.com/video/BV1Z541137Xb) 制作人 [peryiqiao](https://yiqiao.me)
 - 2.5 [数据类型](https://www.bilibili.com/video/bv1ut4y1Y7WR) 制作人 [驰子](https://space.bilibili.com/481747845)
+- 2.7 [类型转换](https://www.bilibili.com/video/BV1jz4y1k7S3) 制作人[猴面包树_](https://space.bilibili.com/636384)
 - 2.9 [值的比较](https://www.bilibili.com/video/BV1oK411G7jk/) 制作人 [LiLue](https://space.bilibili.com/99796959)
 - 2.11 [逻辑运算符](https://www.bilibili.com/video/BV1gK4y177ng/) 制作人 [余悠](https://weibo.com/siinaa)
 - 2.12 [空值合并运算符](https://www.bilibili.com/video/BV1s5411578W/) 制作人 [DANTE](https://github.com/dantefung)
