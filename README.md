@@ -22,6 +22,7 @@
 - 1.1 [JavaScript简介](https://www.bilibili.com/video/BV1Gp4y1r7K3) 制作人 [Easy](https://weibo.com/easy)
 - 1.2 [手册与规范](https://www.bilibili.com/video/BV1VA411x7N5/) 制作人 [Four](http://neychang.com) 
 - 1.3 [代码编辑器](https://www.bilibili.com/video/BV19Z4y137KW/) 制作人 [雨中歌者](https://weibo.com/esinger)
+- 1.4 [开发者控制台](https://www.bilibili.com/video/BV1xp4y1r7SN/) 制作人 [白州](https://space.bilibili.com/5174935)
 - 2.1 [Hello World](https://www.bilibili.com/video/BV1bZ4y1G7wK/) 制作人 [Coding魔法师](https://space.bilibili.com/363772205?share_medium=android&share_source=weixin&bbid=XY5B7FC57FF644BA1B033C110A17C26F862B1&ts=1606317593798)
 - 2.4 [JavaScript变量](https://www.bilibili.com/video/BV1Z541137Xb) 制作人 [peryiqiao](https://yiqiao.me)
 - 2.5 [数据类型](https://www.bilibili.com/video/bv1ut4y1Y7WR) 制作人 [驰子](https://space.bilibili.com/481747845)
